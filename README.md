@@ -2,6 +2,8 @@
 
 XMRig for Monero CPU Mining
 
+[![Docker build](https://dockeri.co/image/polinux/xmrig)](https://hub.docker.com/r/polinux/xmrig/)
+
 ## Usage
 
 ```bash
